@@ -1,0 +1,11 @@
+
+W
+java:S1854$"ARemove this useless assignment to local variable "liveMatchInfo".(ü÷º¥
+H
+java:S1481$"2Remove this unused "liveMatchInfo" local variable.(ü÷º¥
+Y
+java:S18580">"attr" returns a string, there's no need to call "toString()".(¿Ã‚ûÿÿÿÿ
+I
+java:S1602c",Remove useless curly braces around statement(œ¼‡˜8 ¨„¼Ğ1
+X	java:S125s"<This block of commented-out lines of code should be removed.(ÔÚ“Û8û¨„¼Ğ1
+U	java:S106z"9Replace this use of System.out or System.err by a logger.(úÂËĞ8ü¨„¼Ğ1
